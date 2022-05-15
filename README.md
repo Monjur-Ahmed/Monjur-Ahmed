@@ -9,4 +9,4 @@ Monjur-Ahmed/Monjur-Ahmed is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monjur-Ahmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monjur-Ahmed&theme=dark)](https://git.io/streak-stats)
